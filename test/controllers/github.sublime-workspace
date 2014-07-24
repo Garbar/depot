@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"true"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/xana/WWW/github/refinerycms-master/pages/app/controllers/refinery/admin/page_parts_controller.rb",
+			"settings":
+			{
+				"buffer_size": 723,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/xana/Картинки/Coming soon.html",
+		"/home/xana/WWW/Education/depot/app/controllers/carts_controller.rb",
+		"/home/xana/WWW/Education/depot/app/assets/javascripts/store.js.coffee",
+		"/home/xana/WWW/Education/depot/test/controllers/carts_controller_test.rb",
+		"/home/xana/WWW/Education/depot/app/controllers/line_items_controller.rb",
+		"/home/xana/WWW/Education/depot/app/views/line_items/create.js.erb",
+		"/home/xana/WWW/Education/depot/app/views/store/index.html.erb",
+		"/home/xana/WWW/Education/depot/app/assets/javascripts/application.js",
+		"/home/xana/WWW/Education/depot/app/views/carts/show.html.erb",
+		"/home/xana/WWW/Education/depot/app/views/layouts/application.html.erb",
+		"/home/xana/WWW/Education/depot/test/controllers/line_items_controller_test.rb",
+		"/home/xana/WWW/Education/depot/test/controllers/store_controller_test.rb",
+		"/home/xana/WWW/Education/depot/app/helpers/application_helper.rb",
+		"/home/xana/WWW/Education/depot/app/controllers/store_controller.rb",
+		"/home/xana/WWW/Education/depot/app/views/line_items/_line_item.html.erb",
+		"/home/xana/WWW/Education/depot/app/views/carts/_cart.html.erb",
+		"/home/xana/WWW/Education/depot/app/models/line_item.rb",
+		"/home/xana/WWW/Education/depot/app/models/product.rb",
+		"/home/xana/WWW/Education/depot/app/assets/stylesheets/products.css.scss",
+		"/home/xana/WWW/Education/depot/app/models/cart.rb",
+		"/home/xana/WWW/Education/depot/app/assets/stylesheets/carts.css.scss",
+		"/home/xana/WWW/Education/depot/app/assets/stylesheets/application.css.scss",
+		"/home/xana/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/xana/WWW/Education/depot/app/assets/stylesheets/store.css.scss",
+		"/home/xana/WWW/Education/depot/db/migrate/20140720095644_combine_items_in_cart.rb",
+		"/home/xana/WWW/Education/depot/log/test.log",
+		"/home/xana/WWW/Education/depot/db/migrate/20140720095150_add_quantity_to_line_items.rb",
+		"/home/xana/WWW/Education/depot/test/controllers/products_controller_test.rb",
+		"/home/xana/WWW/Education/depot/test/models/product_test.rb",
+		"/home/xana/WWW/Education/depot/app/controllers/concerns/current_cart.rb",
+		"/home/xana/WWW/Education/depot/config/locales/en.yml",
+		"/home/xana/WWW/Education/depot/test/fixtures/products.yml",
+		"/home/xana/WWW/Education/depot/config/environments/development.rb",
+		"/home/xana/WWW/Education/depot/config/routes.rb",
+		"/home/xana/WWW/Education/depot/app/views/products/_form.html.erb",
+		"/home/xana/WWW/Education/rails40/depot_a/app/models/product.rb",
+		"/home/xana/WWW/Education/depot/db/seeds.rb",
+		"/home/xana/WWW/Education/depot/app/views/products/index.html.erb",
+		"/home/xana/WWW/Education/depot/db/migrate/20140718181419_create_products.rb",
+		"/home/xana/WWW/Sauna/sauna/app/assets/stylesheets/application.css.scss",
+		"/home/xana/WWW/LindoAlex/paintball/Capfile",
+		"/home/xana/WWW/Sauna/sauna/app/views/main/_all_saunas.html.erb",
+		"/home/xana/server/test.local/test.php",
+		"/home/xana/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"",
+			"end",
+			".filter .check-item"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/xana/WWW/github/refinerycms-master/pages/app/controllers/refinery/admin/page_parts_controller.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "github.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

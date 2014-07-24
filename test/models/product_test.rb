@@ -70,4 +70,13 @@ end
     assert_equal [I18n.translate('errors.messages.taken')],
                  product.errors[:title]
   end
+    test "product is not valid wit a short title" do
+    product = Product.new(title:       'Book',
+                          description: "yyy", 
+                          price:       1, 
+                          image_url:   "fred.gif")
+
+    assert product.invalid?
+    assert_equal ["is too short (minimum is 10 characters)"], product.errors[:title]
+  end
 end
