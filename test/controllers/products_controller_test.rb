@@ -17,7 +17,7 @@ class ProductsControllerTest < ActionController::TestCase
     assert_not_nil assigns(:products)
   end
 
-  test "should get new" do
+ test "should get new" do
     get :new
     assert_response :success
   end
