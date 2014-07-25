@@ -37,8 +37,10 @@ end
 # gem 'unicorn'
 
 # Use Capistrano for deployment
-gem 'capistrano-rails', group: :development
-gem 'rvm-capistrano', group: :development
+group :development do
+ gem 'capistrano', "~> 2.15.5"
+gem 'rvm-capistrano'
+end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
